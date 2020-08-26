@@ -1,7 +1,7 @@
 ---
 greetings: "Hello"
 emoji: "👋"
-title: "I'm Sara Alkhamri"
+title: "I'm Sara"
 subtitlePrefix: "I build and design "
 subtitleHighlight: "things for the web"
 ---
